@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"net/http"
 
-	"github.com/Home24/Base-Go/Godeps/_workspace/src/github.com/codegangsta/negroni"
+	"github.com/codegangsta/negroni"
 	"fmt"
 	"time"
 	"github.com/gorilla/context"
