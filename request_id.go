@@ -13,7 +13,7 @@ import (
 
 const (
 	// DefaultIDHeader is where command ID is stored.
-	DefaultIDHeader = "X-Command-ID"
+	DefaultIDHeader = "X-Request-ID"
 )
 
 
